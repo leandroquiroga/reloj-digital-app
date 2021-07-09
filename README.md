@@ -1,5 +1,9 @@
 # Reloj Digital 
 
+![Reloj Digital Desktop](https://user-images.githubusercontent.com/80013958/125016389-ad510500-e047-11eb-94b5-af196305135f.gif)
+![Reloj Digital Mobile](https://user-images.githubusercontent.com/80013958/125016435-bf32a800-e047-11eb-8c19-e64ae13707d6.gif)
+
+
 #
 ## Bienvenidos :wave:
 
@@ -9,11 +13,13 @@ En esta app utilice tegnologias como SASS para complilar los estilos en CSS ¿Po
 
 # Explicación
 
-*Code HTML RELOJ*
+(https://user-images.githubusercontent.com/80013958/125016467-cbb70080-e047-11eb-8ef6-e0904c37bb19.png)
+
 En este bloque de código decidí hacerlo de individualmente para poder aplicar un diseño resposivo y así no tener que achicar el tamaño de la fuente. 
 
 
-*Code JS 2*
+(https://user-images.githubusercontent.com/80013958/125016482-ceb1f100-e047-11eb-85d5-111f2da41b9a.png)
+
 Decidí crear esta constaste solo para capturar un elmento **ID**. Si bien no es un tiene muchas lineas de código me facilito la tarea de a la hora de obtener un ID. 
 
 # Tecnoligias 
