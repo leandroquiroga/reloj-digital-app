@@ -11,6 +11,9 @@ Hola ! Quiero mostrarle mi primer reloj digital tanto sea para mobile como para 
 
 En esta app utilice tegnologias como SASS para complilar los estilos en CSS ¿Porqué? Por qué me parecion una forma sencilla de aplicar estilos de una forma mas ordenada. 
 
+# Desplegado
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53ea4c56-d431-40ac-b3e8-a4b16d446100/deploy-status)](https://https://relojdigitalapp.netlify.app/src/)
+
 # Tecnoligias 
 - HTML 5 
 - CSS 3
