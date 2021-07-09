@@ -1,0 +1,13 @@
+$pos: center; 
+$medida: 10px;
+body{
+    .container{
+        max-width: 1024px;
+        display: flex;
+        flex-direction: column;
+        justify-content: $pos;
+        align-items: $pos;
+        padding: $medida;
+        margin: $medida auto;
+    }
+}

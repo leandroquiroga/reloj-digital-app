@@ -1,0 +1,12 @@
+$pos: center;
+$size: 10px;
+$font: 'Source Sans Pro', sans-serif;
+
+.title{
+    h1{
+        text-align: $pos;
+        padding:  $size;
+        color: #fff;
+        font: 400 ($size + 25px) $font;
+    }
+}

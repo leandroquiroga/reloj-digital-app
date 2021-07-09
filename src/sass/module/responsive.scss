@@ -1,0 +1,16 @@
+$position: center;
+$font: 'Source Sans Pro', sans-serif;
+
+@media only screen and(max-width: 500px){
+    .container{
+        .clock-container{
+             .clock-hours{
+                flex-direction: column;
+            }
+            .clock-date{
+                text-align: center;
+                font: 400 2em $font;
+            }
+        }
+    }
+}
